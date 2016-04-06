@@ -1,0 +1,28 @@
+name: PIXELGEEK
+favicon: null
+layout_spectrum: 0.05504669342190027
+typography_spectrum: 0.5138317784294486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2702086630742997
+  lightness: 0.8949116056319326
+  saturation: 0.0755614300724119
+  rhythmicContrast: 0.34535702411085367
+purpose: []
